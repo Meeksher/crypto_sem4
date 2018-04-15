@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  lab3.cpp
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\3\lab3\lab3.cpp(63): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\3\lab3\lab3.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\3\lab3\lab3.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\3\lab3\lab3.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\3\lab3\lab3.cpp(141): warning C4018: '<': signed/unsigned mismatch
+  lab3.vcxproj -> C:\Users\lemek\Desktop\labs\crypto_sem4\crypto_sem4\3\lab3\Debug\lab3.exe
