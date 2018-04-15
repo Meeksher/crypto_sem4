@@ -1,0 +1,4 @@
+﻿  soft.cpp
+c:\users\lemek\desktop\labs\1\soft\soft\soft.cpp(14): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\lemek\desktop\labs\1\soft\soft\soft.cpp(22): warning C4018: <: несоответствие типов со знаком и без знака
+  soft.vcxproj -> C:\Users\lemek\Desktop\labs\1\soft\Debug\soft.exe

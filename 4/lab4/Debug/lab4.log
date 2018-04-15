@@ -1,0 +1,20 @@
+﻿  lab4.cpp
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(78): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(84): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(115): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(164): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(183): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(189): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(249): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(266): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(270): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(279): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(299): warning C4018: '<': signed/unsigned mismatch
+c:\users\lemek\desktop\labs\crypto_sem4\crypto_sem4\4\lab4\lab4.cpp(32): warning C4715: 'sundaram': not all control paths return a value
+  lab4.vcxproj -> C:\Users\lemek\Desktop\labs\crypto_sem4\crypto_sem4\4\lab4\Debug\lab4.exe
